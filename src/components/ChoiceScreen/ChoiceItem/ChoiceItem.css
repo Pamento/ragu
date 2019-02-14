@@ -1,0 +1,17 @@
+.boxItem {
+  display: inline-block;
+  margin: 1em;
+  width: 5%;
+}
+.choiceItem {
+  padding: 1em;
+  border: 1px solid black;
+  cursor: pointer;
+  line-height: inherit;
+  vertical-align: middle;
+  text-align: center;
+}
+.choiceItem:hover {
+  background-color: black;
+  color: aliceblue;
+}

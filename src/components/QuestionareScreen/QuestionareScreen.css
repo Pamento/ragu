@@ -1,0 +1,12 @@
+.questScreen {
+  text-align: center;
+}
+.themeOfQuestions {
+  color: blue;
+}
+.questionsList {
+  display: inline-block;
+}
+.questionsList>ol {
+  padding-left: 0;
+}
